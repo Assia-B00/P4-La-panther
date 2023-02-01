@@ -100,11 +100,11 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgb(248, 245, 245);
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: rgb(249, 245, 245);
 }
 
 .d-bloc .icon-round,
@@ -284,7 +284,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 36px;
 }
 
 .navbar {
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #020101!important;
 }
 
 .container {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -686,7 +686,7 @@ p {
 }
 
 .h1 {
-    font-size: 20px;
+    font-size: 24px;
     font-family: "Open Sans";
 }
 
@@ -705,12 +705,13 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 23px;
     line-height: 1.4em;
+    font-weight: 900;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -736,7 +737,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #5c1b1b!important;
 }
 
 .portfolio-thumb {
@@ -753,7 +754,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(215, 186, 100, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -775,7 +776,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f6f5f5!important;
+    font-weight: 900;
 }
 
 .btn-atomic-tangerine {
@@ -790,6 +792,7 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    font-weight: 900;
 }
 
 .ltc-white:hover {
