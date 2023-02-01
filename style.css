@@ -733,7 +733,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #060505!important;
 }
 
 h4 {
@@ -853,6 +853,10 @@ h4 {
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
+    .bloc {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
     .navbar .nav {
         max-width: 80%
     }
@@ -1038,6 +1042,10 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .bloc {
+        padding-left: 20px;
+        padding-right: 20px;
     }
 }
 
