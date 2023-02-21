@@ -692,9 +692,7 @@ a {
     margin: auto auto auto auto;
 }
 
-/*p {
-    font-size: 16px;
-}*/
+
 .card {
     color: #b13d3d;
     font-weight: 900;
@@ -974,7 +972,7 @@ h4 {
     }
     .navbar-collapse {
         padding: 0;
-        overflow-x: hidden;
+        /*overflow-x: hidden;*/
         -webkit-box-shadow: none;
         box-shadow: none;
     }
