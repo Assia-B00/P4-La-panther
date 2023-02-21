@@ -33,7 +33,7 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 .col-sm-12 a {
-    font-size: 22;
+    font-size: 22px;
     padding: 10px;
 }
 .bloc {
@@ -837,10 +837,6 @@ h4 {
     background-image: url("img/dots-bg.webp");
 }
 
-/*.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.webp");
-}*/
-
 .bg-banniere {
     background-image: url("img/agence-la-panthere.webp");
 }
@@ -900,10 +896,6 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }
     .bloc-group,
     .bloc-group .bloc {
         display: block;
@@ -912,9 +904,6 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }
 }
 
 @media (max-width: 767px) {
@@ -1075,4 +1064,5 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
 }
